@@ -5,35 +5,35 @@ Comprehensive collection of slides about R
 
 ## Content
 
-Introduction
+__Introduction__
 
-- First Contact
-- Session Management
-- A little bit about R
+- [First Contact](slides/01-intro/01-1-first-contact.pdf)
+- Session Management (coming soon)
+- [A little bit about R](slides/01-intro/01-3-history-R.pdf)
 
 Data Objects
 
-- Introduction to Vectors
-- Numeric Vectors
-- Subsetting (indexing) Vectors
-- Matrices
-- Lists
-- Data Frames
+- [Introduction to Vectors](slides/02-data-objects/02-1-vectors-intro.pdf)
+- [Numeric Vectors](slides/02-data-objects/02-2-vectors-numeric.pdf)
+- [Subsetting (indexing) Vectors](slides/02-data-objects/02-3-vectors-indexing.pdf)
+- [Matrices](slides/02-data-objects/02-4-matrices.pdf)
+- [Lists](slides/02-data-objects/02-5-lists.pdf)
+- [Data Frames](slides/02-data-objects/02-6-data-frames.pdf)
 
 Base Graphics
 
-- Base Graphics (part 1)
-- Base Graphics (part 2)
-- Base Graphics (part 2)
-- Colors
+- [Base Graphics (part 1)](slides/03-base-graphics/03-1-base-graphics1.pdf)
+- [Base Graphics (part 2)](slides/03-base-graphics/03-2-base-graphics2.pdf)
+- [Base Graphics (part 2)](slides/03-base-graphics/03-3-base-graphics3.pdf)
+- [Colors](slides/03-base-graphics/03-colors1.pdf)
 
 Programming
 
-- Expressions
-- Conditionals
+- [Expressions]
+- [Conditionals]
 - Iterations
-- Functions (part 1)
-- Functions (part 2)
+- [Functions (part 1)]
+- [Functions (part 2)]
 
 
 ## Donation
