@@ -11,7 +11,8 @@ __Introduction__
 - Session Management (coming soon)
 - [A little bit about R](slides/01-intro/01-3-history-R.pdf)
 
-Data Objects
+
+__Data Objects__
 
 - [Introduction to Vectors](slides/02-data-objects/02-1-vectors-intro.pdf)
 - [Numeric Vectors](slides/02-data-objects/02-2-vectors-numeric.pdf)
@@ -20,14 +21,16 @@ Data Objects
 - [Lists](slides/02-data-objects/02-5-lists.pdf)
 - [Data Frames](slides/02-data-objects/02-6-data-frames.pdf)
 
-Base Graphics
+
+__Base Graphics__
 
 - [Base Graphics (part 1)](slides/03-base-graphics/03-1-base-graphics1.pdf)
 - [Base Graphics (part 2)](slides/03-base-graphics/03-2-base-graphics2.pdf)
 - [Base Graphics (part 2)](slides/03-base-graphics/03-3-base-graphics3.pdf)
 - [Colors](slides/03-base-graphics/03-colors1.pdf)
 
-Programming
+
+__Programming__
 
 - [Expressions]
 - [Conditionals]
