@@ -38,7 +38,7 @@ Programming
 
 ## Donation
 
-If you find any value and usefulness in `plspm`, please consider making 
+If you find any value and usefulness in the content of this repository, please consider making 
 a one-time donation in any amount. Your support really matters.
 
 <a href="https://www.paypal.com/donate?business=ZF6U7K5MW25W2&currency_code=USD" target="_blank"><img src="https://www.gastonsanchez.com/images/donate.png" width="140" height="60"/></a>
