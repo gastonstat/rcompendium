@@ -32,11 +32,12 @@ __Base Graphics__
 
 __Programming__
 
-- [Expressions]
-- [Conditionals]
-- Iterations
-- [Functions (part 1)]
-- [Functions (part 2)]
+- [Expressions](slides/06-programming-1/06-1-expressions.pdf)
+- [Conditionals](slides/06-programming-1/06-2-conditionals.pdf)
+- [For Loops](slides/06-programming-1/06-3-for-loops.pdf)
+- While Loops
+- [Functions (part 1)](slides/06-programming-1/06-5-functions1.pdf)
+- [Functions (part 2)](slides/06-programming-1/06-6-functions2.pdf)
 
 
 ## Donation
